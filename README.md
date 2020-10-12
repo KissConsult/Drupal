@@ -42,7 +42,7 @@ We will deploy  Drupal on our cluster
 
 * After finishing everything , **tick** the box next to the agreements and click **install**
 
-![Install](/aggreement-create.png)
+![Install](/aggree-install.png)
 
 * The apache workspace will start installing , wait a couple of minutes 
 
@@ -91,10 +91,10 @@ $ kubectl get service -n NAMESPACE
 ![get-service](/get-service.png)
 
 
-* Running Apache Airflow pods  will be visible 
+* Running Drupal pods  will be visible 
 
 
-You successfully deployed an Apache Airflow on IBM Cloud ! 
+You successfully deployed Drupalw on IBM Cloud ! 
 
 
 [IBM Cloud]: <http://cloud.ibm.com>
