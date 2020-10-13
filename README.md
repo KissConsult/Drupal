@@ -133,19 +133,19 @@ We will deploy  Drupal on our cluster
  ```sh
 $ kubectl get ns
 ```
-![get-ns](/get-ns.png)
+![get-ns](/get-nsD.png)
 
 
  ```sh
 $ kubectl get pod -n NAMESPACE -o wide 
 ```
-![get-pod](/get-pod.png)
+![get-pod](/get-podD.png)
 
 
  ```sh
 $ kubectl get service -n NAMESPACE
 ```
-![get-service](/get-service.png)
+![get-service](/get-serviceD.png)
 
 
 * Running Drupal pods  will be visible 
