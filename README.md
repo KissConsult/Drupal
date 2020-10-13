@@ -89,7 +89,7 @@ We will deploy  Drupal on our cluster
 
 ![dr-resource](/details-resource.png)
 
-* Give **tags** to your apache workspace, for more information visit [tags]
+* Give **tags** to your dripal workspace, for more information visit [tags]
 
 ![dr-tags](/details-tags.png)
 
@@ -101,11 +101,11 @@ We will deploy  Drupal on our cluster
 
 ![Install](/aggree-install.png)
 
-* The apache workspace will start installing, wait a couple of minutes 
+* The drupal workspace will start installing, wait a couple of minutes 
 
 ![drupal-progress](/in-progress.png)
 
-* You apache workspace has been successfully deployed
+* You drupal workspace has been successfully deployed
 
 ![drupal-finsihed](/drupal-done.png)
 
