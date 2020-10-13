@@ -151,7 +151,7 @@ $ kubectl get service -n NAMESPACE
 * Running Drupal pods  will be visible 
 
 
-You successfully deployed Drupal on IBM Cloud ! 
+You successfully deployed Drupal on IBM Cloud! 
 
 
 [IBM Cloud]: <http://cloud.ibm.com>
